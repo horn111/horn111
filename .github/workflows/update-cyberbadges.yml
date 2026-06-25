@@ -1,6 +1,7 @@
 name: Update Cyber Badges
 
 on:
+  push:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
@@ -64,9 +65,7 @@ jobs:
               /<!-- CYBERBADGES:START -->([\s\S]*?)<!-- CYBERBADGES:END -->/;
 
             if (!markerRegex.test(readme)) {
-              throw new Error(
-                "README.md must contain CYBERBADGES start/end markers."
-              );
+              throw new Error("README.md must contain CYBERBADGES start/end markers.");
             }
 
             const updated = readme.replace(markerRegex, block);
