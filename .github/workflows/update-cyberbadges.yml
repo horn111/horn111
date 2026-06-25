@@ -1,0 +1,74 @@
+name: Update Cyber Badges
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README badges
+        uses: actions/github-script@v9
+        with:
+          script: |
+            const fs = require("fs");
+
+            const USERNAME = "horn111";
+
+            const now = new Date();
+            const from = new Date();
+            from.setFullYear(now.getFullYear() - 1);
+
+            const query = `
+              query($login: String!, $from: DateTime!, $to: DateTime!) {
+                user(login: $login) {
+                  contributionsCollection(from: $from, to: $to) {
+                    contributionCalendar {
+                      totalContributions
+                    }
+                  }
+                }
+              }
+            `;
+
+            const result = await github.graphql(query, {
+              login: USERNAME,
+              from: from.toISOString(),
+              to: now.toISOString()
+            });
+
+            const cubes =
+              result.user.contributionsCollection.contributionCalendar.totalContributions;
+
+            const block = `<!-- CYBERBADGES:START -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/${USERNAME}?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STREET%20CRED&color=fcee09&labelColor=111111" />
+  <img src="https://img.shields.io/badge/GREEN%20CUBE%20VAULT-${cubes}%20cubes-39ff14?style=for-the-badge&labelColor=111111" />
+</p>
+<!-- CYBERBADGES:END -->`;
+
+            const readmePath = "README.md";
+            const readme = fs.readFileSync(readmePath, "utf8");
+
+            const updated = readme.replace(
+              /<!-- CYBERBADGES:START -->([\s\S]*?)<!-- CYBERBADGES:END -->/,
+              block
+            );
+
+            fs.writeFileSync(readmePath, updated);
+
+      - name: Commit changes
+        run: |
+          git config user.name "cyberbadges-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update cyber badges"
+          git push
