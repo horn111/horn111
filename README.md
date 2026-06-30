@@ -50,13 +50,13 @@ For collaboration, partnerships, or private freelance work:
 
 <div align="center">
 
-<a href="mailto:debythm.business@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT%20ME-email-39ff14?style=for-the-badge&labelColor=111111" />
-</a>
+<a href="mailto:debythm.business@gmail.com"> <img src="https://img.shields.io/badge/CONTACT%20ME-email-39ff14?style=for-the-badge&labelColor=111111" /> </a> &nbsp; <a href="https://t.me/debythm"> <img src="https://img.shields.io/badge/TELEGRAM-message-00f0ff?style=for-the-badge&labelColor=111111&logo=telegram" /> </a>
+
+---
 
 <br><br>
 
-`Web3 systems • Gamedev tooling • Open-source collaboration • Private freelance work`
+`Web3 systems • Gamedev tooling • Open-source collaboration`
 
 </div>
 <!-- CYBERBADGES:START -->
