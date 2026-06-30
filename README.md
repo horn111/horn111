@@ -26,38 +26,47 @@ I’m a solo developer focused on **Web3 infrastructure**, **game development sy
 
 ---
 
-<div align="center">
 ### Support open source
 
 All donations go only toward maintaining, improving, and expanding my open-source projects: development time, infrastructure, testing, tooling, and long-term project support.
 
+<div align="center">
 
 <a href="https://nowpayments.io/donation/horn111">
   <img src="https://img.shields.io/badge/SUPPORT%20OPEN%20SOURCE-crypto%20donation-fcee09?style=for-the-badge&labelColor=111111" />
 </a>
 
 <br><br>
-
 `Every donation helps keep open-source systems alive, maintained, and usable.`
 
 </div>
 
 ---
 
-<div align="center">
 ### Contact
 
 For collaboration, partnerships, or private freelance work:
 
+<div align="center">
 
-<a href="mailto:debythm.business@gmail.com"> <img src="https://img.shields.io/badge/CONTACT%20ME-email-39ff14?style=for-the-badge&labelColor=111111" /> </a> &nbsp; <a href="https://t.me/debythm"> <img src="https://img.shields.io/badge/TELEGRAM-message-00f0ff?style=for-the-badge&labelColor=111111&logo=telegram" /> </a>
+<a href="mailto:debythm.business@gmail.com">
+  <img src="https://img.shields.io/badge/CONTACT%20ME-email-39ff14?style=for-the-badge&labelColor=111111" />
+</a>
+&nbsp;
+<a href="https://t.me/debythm">
+  <img src="https://img.shields.io/badge/TELEGRAM-message-00f0ff?style=for-the-badge&labelColor=111111&logo=telegram" />
+</a>
+
+</div>
 
 ---
 
-<br><br>
-`Web3 systems • Gamedev tooling • Open-source collaboration`
+<div align="center">
+
+`Web3 systems • Gamedev tooling • Open-source collaboration • Private freelance work`
 
 </div>
+
 <!-- CYBERBADGES:START -->
 <p align="center">
   <img src="https://img.shields.io/github/stars/horn111?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STREET%20CRED&color=fcee09&labelColor=111111" />
