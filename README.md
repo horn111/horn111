@@ -63,7 +63,7 @@ For collaboration, partnerships, or private freelance work:
 
 <div align="center">
 
-`Web3 systems • Gamedev tooling • Open-source collaboration • Private freelance work`
+`Web3 systems • Gamedev tooling • Open-source collaboration`
 
 </div>
 
