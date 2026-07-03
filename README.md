@@ -70,6 +70,6 @@ For collaboration, partnerships, or private freelance work:
 <!-- CYBERBADGES:START -->
 <p align="center">
   <img src="https://img.shields.io/github/stars/horn111?affiliations=OWNER&style=for-the-badge&label=STARS&color=fcee09&labelColor=111111" />
-  <img src="https://img.shields.io/badge/CONTRIBUTIONS-104%20cubes-39ff14?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-104-39ff14?style=for-the-badge&labelColor=111111" />
 </p>
 <!-- CYBERBADGES:END -->
