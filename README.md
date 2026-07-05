@@ -1,6 +1,12 @@
+<!-- CYBERBADGES:START -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/horn111?affiliations=OWNER&style=for-the-badge&label=STARS&color=fcee09&labelColor=111111" />
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-108-39ff14?style=for-the-badge&labelColor=111111" />
+</p>
+<!-- CYBERBADGES:END -->
 <div align="center">
-
-## About me
+  
+  ## About me
 
 ### Solo Developer building Web3 Infra, Gamedev Systems & Open Source Tools
 
@@ -67,9 +73,8 @@ For collaboration, partnerships, or private freelance work:
 
 </div>
 
-<!-- CYBERBADGES:START -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/horn111?affiliations=OWNER&style=for-the-badge&label=STARS&color=fcee09&labelColor=111111" />
-  <img src="https://img.shields.io/badge/CONTRIBUTIONS-108-39ff14?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/THREE.JS-111111?style=for-the-badge&logo=three.js&logoColor=fcee09&labelColor=111111&color=fcee09" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=00f0ff&labelColor=111111&color=00f0ff" />
+  <img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=39ff14&labelColor=111111&color=39ff14" />
 </p>
-<!-- CYBERBADGES:END -->
