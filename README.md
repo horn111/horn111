@@ -4,11 +4,13 @@
   <img src="https://img.shields.io/badge/CONTRIBUTIONS-109-39ff14?style=for-the-badge&labelColor=111111" />
 </p>
 <!-- CYBERBADGES:END -->
-<div align="center">
-  
-  ## About me
 
-### Solo Developer building Web3 Infra, Gamedev Systems & Open Source Tools
+---
+
+<div align="center">
+
+  
+  ### Solo Developer building Web3 Infra, Gamedev Systems & Open Source Tools
 
 I’m a solo developer focused on **Web3 infrastructure**, **game development systems**, and **open-source tools** that turn experimental ideas into usable developer layers.
 
@@ -22,7 +24,11 @@ I’m a solo developer focused on **Web3 infrastructure**, **game development sy
 
 ---
 
-### What I’m building around
+<div align="center">
+
+  ### What I’m building around
+
+</div>
 
 | Area                              | Focus                                                                                            |
 | --------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -31,11 +37,6 @@ I’m a solo developer focused on **Web3 infrastructure**, **game development sy
 | **Open-source-first development** | Small, practical systems that other builders can fork, inspect, extend, and ship with            |
 
 ---
-
-### Support open source
-
-All donations go only toward maintaining, improving, and expanding my open-source projects: development time, infrastructure, testing, tooling, and long-term project support.
-
 <div align="center">
 
 <a href="https://nowpayments.io/donation/horn111">
@@ -44,16 +45,16 @@ All donations go only toward maintaining, improving, and expanding my open-sourc
 
 <br><br>
 `Every donation helps keep open-source systems alive, maintained, and usable.`
-
 </div>
 
 ---
+<div align="center">
 
-### Contact
+  ### Contact
 
 For collaboration, partnerships, or private freelance work:
 
-<div align="center">
+
 
 <a href="mailto:debythm.business@gmail.com">
   <img src="https://img.shields.io/badge/CONTACT%20ME-email-39ff14?style=for-the-badge&labelColor=111111" />
