@@ -10,13 +10,12 @@
 <div align="center">
 
   
-  ### Solo Developer building Web3 Infra, Gamedev Systems & Open Source Tools
+  ### Solo Developer building Web3 Infra & Open Source Tools
 
-I’m a solo developer focused on **Web3 infrastructure**, **game development systems**, and **open-source tools** that turn experimental ideas into usable developer layers.
+I’m a solo developer focused on **Web3 infrastructure** and **open-source tools** that turn experimental ideas into usable developer layers.
 
 <p>
   <img src="https://img.shields.io/badge/WEB3-INFRA-fcee09?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/GAMEDEV-SYSTEMS-39ff14?style=for-the-badge&labelColor=111111" />
   <img src="https://img.shields.io/badge/OPEN%20SOURCE-FIRST-00f0ff?style=for-the-badge&labelColor=111111" />
 </p>
 
@@ -33,7 +32,6 @@ I’m a solo developer focused on **Web3 infrastructure**, **game development sy
 | Area                              | Focus                                                                                            |
 | --------------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Web3 infra**                    | Payment rails, attribution layers, agents, trading/simulation tools, and developer kits          |
-| **Gamedev systems**               | Engine-level tools, gameplay infrastructure, simulation layers, and reusable open-source modules |
 | **Open-source-first development** | Small, practical systems that other builders can fork, inspect, extend, and ship with            |
 
 ---
@@ -70,12 +68,11 @@ For collaboration, partnerships, or private freelance work:
 
 <div align="center">
 
-`Web3 systems • Gamedev tooling • Open-source collaboration`
+`Web3 systems • Tooling Layers • Open-source collaboration`
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/THREE.JS-111111?style=for-the-badge&logo=three.js&logoColor=fcee09&labelColor=111111&color=fcee09" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=00f0ff&labelColor=111111&color=00f0ff" />
   <img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=39ff14&labelColor=111111&color=39ff14" />
 </p>
