@@ -50,7 +50,7 @@ I’m a solo developer focused on **Web3 infrastructure** and **open-source tool
 
   ### Contact
 
-For collaboration, partnerships, or private freelance work:
+For collaboration and partnerships:
 
 
 
