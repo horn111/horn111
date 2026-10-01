@@ -1,78 +1,32 @@
-<!-- CYBERBADGES:START -->
-<p align="center">
-  <img src="https://img.shields.io/github/stars/horn111?affiliations=OWNER&style=for-the-badge&label=STARS&color=fcee09&labelColor=111111" />
-  <img src="https://img.shields.io/badge/CONTRIBUTIONS-478-39ff14?style=for-the-badge&labelColor=111111" />
-</p>
-<!-- CYBERBADGES:END -->
+### `01 / about`
 
----
+I'm a solo developer building **Web3 infrastructure** and **open-source tools**.
+I turn experimental ideas into practical systems that other developers can use, inspect, and build on.
 
-<div align="center">
+`TypeScript` / `Python`
 
-  
-  ### Solo Developer building Web3 Infra & Open Source Tools
+### `02 / workspace`
 
-I’m a solo developer focused on **Web3 infrastructure** and **open-source tools** that turn experimental ideas into usable developer layers.
+```text
+~/workspace
+|
++-- web3-infra/
+|   +-- payment-rails
+|   +-- attribution-layers
+|   +-- agents
+|   `-- trading-and-simulation
+|
+`-- open-source-tools/
+    +-- developer-kits
+    `-- small-practical-systems
+```
 
-<p>
-  <img src="https://img.shields.io/badge/WEB3-INFRA-fcee09?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-FIRST-00f0ff?style=for-the-badge&labelColor=111111" />
-</p>
+Small, practical systems. Open source first.
+Built to be **forked, inspected, extended, and shipped**.
 
-</div>
+### `03 / connect`
 
----
+For collaboration, partnerships, and building things together.
 
-<div align="center">
-
-  ### What I’m building around
-
-</div>
-
-| Area                              | Focus                                                                                            |
-| --------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Web3 infra**                    | Payment rails, attribution layers, agents, trading/simulation tools, and developer kits          |
-| **Open-source-first development** | Small, practical systems that other builders can fork, inspect, extend, and ship with            |
-
----
-<div align="center">
-
-<a href="https://nowpayments.io/donation/horn111">
-  <img src="https://img.shields.io/badge/SUPPORT%20OPEN%20SOURCE-crypto%20donation-fcee09?style=for-the-badge&labelColor=111111" />
-</a>
-
-<br><br>
-`Every donation helps keep open-source systems alive, maintained, and usable.`
-</div>
-
----
-<div align="center">
-
-  ### Contact
-
-For collaboration and partnerships:
-
-
-
-<a href="mailto:debythm.business@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT%20ME-email-39ff14?style=for-the-badge&labelColor=111111" />
-</a>
-&nbsp;
-<a href="https://t.me/debythm">
-  <img src="https://img.shields.io/badge/TELEGRAM-message-00f0ff?style=for-the-badge&labelColor=111111&logo=telegram" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-`Web3 systems • Tooling Layers • Open-source collaboration`
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-111111?style=for-the-badge&logo=typescript&logoColor=00f0ff&labelColor=111111&color=00f0ff" />
-  <img src="https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=39ff14&labelColor=111111&color=39ff14" />
-</p>
+[`[ email ]`](mailto:debythm.business@gmail.com) &nbsp;
+[`[ telegram ]`](https://t.me/debythm)
