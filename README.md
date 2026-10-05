@@ -1,6 +1,6 @@
 ### `01 / about`
 
-I'm a solo developer building **Web3 infrastructure** and **open-source tools**.
+I'm developer building **Web2 & Web3 infrastructure** and **open-source tools**.
 I turn experimental ideas into practical systems that other developers can use, inspect, and build on.
 
 `TypeScript` / `Python`
